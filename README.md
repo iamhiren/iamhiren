@@ -1,74 +1,43 @@
 
-### Hello..!!
+**Hi there! **
+
 ![profile count](https://komarev.com/ghpvc/?username=iamhiren&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/iamhiren?label=follow&style=social)](https://github.com/iamhiren)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-### 👨🏻‍💻 &nbsp;About Me
 
-✋ Hi, I am passionate Full-stack developer with expertise in Jamstack | Gatsby | NextJS | NetlifyCMS | Strapi | Sanity.io | DatoCMS | Ghost | Tailwind | Frontity | Remix | React-native | ReactJS | Graphql | HeadlessCMS | Gulp | Typescript | Html5 | CSS3 | Wordpress | Shopify | Woocommerce | any open source projects. With a keen interest in apps and a sharp eye for the latest trends, I does not let pass an opportunity to help the developer community with articles and tips on honing the craft. 
+** About Me **
 
-Over 12+ years of IT experience which includes 3+ years of Experience as a UI/UX Designer and 9+ years of Experience as Front End Developer.
+I am Hiren Patel, a Full-stack developer with a passion for Jamstack, Gatsby, NextJS, NetlifyCMS, Ghost, Tailwind, React Native, ReactJS, GraphQL, HeadlessCMS, TypeScript, HTML5, CSS3, WordPress, Shopify, WooCommerce, and various open-source projects. With a keen interest in app development and a sharp eye for the latest trends, I seize every opportunity to assist the developer community by sharing articles and tips on enhancing their skills.
 
-Over the last 3 years, I help agencies and companies with modern web development (JAMstack) tools. This includes web development using Static Site Generators, Headless CMS, Mobile Development.
+With over 10 years of IT experience, including 3+ years as a UI/UX Designer and 7+ years as a Front-End Developer.
 
-My first priority to provide a 100% satisfaction to my client and good quality work.
-
-✔  WHY CHOOSE ME?
-
-→ Good Communication Skills.
-→ I Believe in Long term Business Relationships Only.
-→ Continued support after the delivery of the final product
-→ 100% Satisfaction guaranteed
-
-Love to work on JAMstack 🔥
-
-### 🛠 &nbsp;Tech Stack
-
-✔ Front-end 
-- React, NextJs, Gatsby( My Favorite ), Remix, Hugo, Ghost, Jekyll, Nuxt, Frontity, Redux, MobX, Typescript, Hooks, Webpack, GraphQL, Gulp.
-
-✔ HeadlessCMS 
-- Sanity, Prismic, Craft, Strapi, Agility, DatoCMS, Sanity.io, Contentful, NetlifyCMS, Headless Wordpress, Headless Shopify.
-
-✔ BackEnd 
- - NodeJs, PHP/Laravel.
-
-✔ CSS 
-- Tailwind, Bootstrap, Bulma, MaterialUI, Foundation, pure css/saas.
-
-✔ Databases 
-- MySQL, postgres, mongo, dynamoDB.
-
-✔ Deploy and CDN 
-- Vercel, Netlify, Gatsby Cloud, Heroku, Firebase, AWS, Jenkin, Gradle.
-
-✔ Other tools and skills 
-- Git, Jira, AWS, Linux, Web Scraping, Python. 
-
-✔ UI/UX Design 
-- Figma, Apple Sketch, Adobe PS, XD, Zeplin.
-
-✔ Mobile App 
-- React Native.
+My top priority is to provide 100% client satisfaction and deliver high-quality work.
 
 
-### 📫 &nbsp; How to reach me:
+**Expertise:**
+
+* JAMstack Development (Next.js & Gatsby)
+* Headless CMS Integration (Strapi)
+* Full-Stack with TypeScript & GraphQL
+
+**Links:**
+
+* Website: https://www.iamhiren.com/
+* Portfolio: [https://learnai.org/, https://north-app.vercel.app/, https://underpay.io/]
+
+**Projects:**
+
+* **Ecommerce Platform (Next.js & Shopify):** Built a scalable online store with a focus on user experience and SEO.
+* **Blog (Gatsby & NetlifyCMS):** Developed a performant and content-rich blog with a user-friendly CMS for easy content management.
+
+**Technical Skills (Optional):**
+
+* React Native
+* WordPress
+* WooCommerce
 
 
+** Connect to me: **
 
-<a href="mailto:bhargav.bkpatel@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://calendly.com/bhargav-bkpatel/30min" target="_blank"><img alt="Calendly" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=googlecalendar&logoColor=white" /></a> &nbsp;
-<!--
-**bhargav-bkpatel/bhargav-bkpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:imhireen@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://calendly.com/imhireen/30min" target="_blank"><img alt="Calendly" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=googlecalendar&logoColor=white" /></a> &nbsp;
