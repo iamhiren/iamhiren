@@ -45,4 +45,4 @@ My top priority is to provide 100% client satisfaction and deliver high-quality 
 ** Connect to me: **
 
 <a href="mailto:imhireen@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://calendly.com/imhireen/30min" target="_blank"><img alt="Calendly" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=googlecalendar&logoColor=white" /></a> &nbsp;
+<a href="https://calendly.com/imhireen/30min" target="_blank"><img alt="Calendly" src="https://img.shields.io/badge/Calendly-blue?style=flat&logo=googlecalendar&logoColor=white" /></a>
