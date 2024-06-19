@@ -1,7 +1,7 @@
 
 ### Hello..!!
-![profile count](https://komarev.com/ghpvc/?username=bhargav-bkpatel&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/bhargav-bkpatel?label=follow&style=social)](https://github.com/bhargav-bkpatel)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=iamhiren&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/iamhiren?label=follow&style=social)](https://github.com/iamhiren)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
