@@ -26,7 +26,7 @@ My top priority is to provide 100% client satisfaction and deliver high-quality 
 **Links:**
 
 * Website: https://www.iamhiren.com/
-* Portfolio: [https://learnai.org/, https://north-app.vercel.app/, https://underpay.io/]
+* Portfolio: https://learnai.org/, https://north-app.vercel.app/, https://underpay.io/
 
 
 **Projects:**
