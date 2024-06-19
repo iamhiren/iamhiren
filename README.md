@@ -30,7 +30,8 @@ My top priority is to provide 100% client satisfaction and deliver high-quality 
 https://learnai.org/, 
 https://north-app.vercel.app/, 
 https://underpay.io/, 
-metablaze.xyz, https://build-ai.vercel.app/, 
+metablaze.xyz, 
+https://build-ai.vercel.app/, 
 https://etical-sa.vercel.app/, 
 https://www.firmitasfx.com/, 
 https://kairos-app-mocha.vercel.app/
